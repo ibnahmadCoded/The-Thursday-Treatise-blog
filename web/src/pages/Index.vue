@@ -74,7 +74,7 @@ export default {
     PostCard
   },
   metaInfo: {
-    title: 'Hello, world!'
+    title: 'The Thursday Treatise'
   }
 }
 </script>
